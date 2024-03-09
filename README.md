@@ -93,7 +93,7 @@ This project is a face recognition application built using Streamlit for the fro
 
 ## Installation
 
-# Clone the repository:
+ Clone the repository:
 
    ```bash
    git clone https://github.com/Aksshay88/Cold-Recog..git
@@ -109,16 +109,16 @@ This project is a face recognition application built using Streamlit for the fro
   python -m venv venv
   ```
 
- # Activate the virtual environment
+  Activate the virtual environment
 ```cmd 
 venv\Scripts\activate
 ```
 
- # Install dependencies (replace requirements.txt with your actual requirements file)
+  Install dependencies (replace requirements.txt with your actual requirements file)
 ```cmd 
 pip install -r requirements.txt
 ```
- # Deactivate the virtual environment when done
+  Deactivate the virtual environment when done
 ```cmd 
 deactivate
 ```
@@ -132,14 +132,14 @@ deactivate
 
 python3 -m venv venv
 ```
-# Activate the virtual environment
+Activate the virtual environment
 ```bash 
 source venv/bin/activate
 ```
 ```bash 
 pip install -r requirements.txt
 ```
-# Deactivate the virtual environment when done
+ Deactivate the virtual environment when done
 ```bash 
 deactivate
 ```
@@ -419,7 +419,9 @@ Please ⭐ this repository if this project helped you!
  </a> 
   <a href="https://github.com/AkashA335">
     <img src="https://img.shields.io/badge/AkashA335-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
- </a> 
+ </a>   
+ <a href="https://github.com/Aak54321">
+    <img src="https://img.shields.io/badge/Aak54321-000.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a>
  </div>
  <div align="center" >
  </div>
@@ -429,7 +431,7 @@ Please ⭐ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Hackathon-5XA](https://github.com/Hackathon-5XA).<br />
+Copyright © 2023 [Aksshay88](https://github.com/Aksshay88).<br />
 
 ---
 
